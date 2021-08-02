@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(116, 181, 255);
+}
+
+#sign-up-box{
+    border: thin solid black;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+}
+#input{
+    padding: 10px;
+}
+#username{
+    padding: 10px;
+}
+#password{
+    padding: 10px;
+}
+#confirm-password{
+    padding: 10px;
+}
+#button{
+    padding: 10px;
+}
